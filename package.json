@@ -1,0 +1,16 @@
+{
+  "name": "AlfanosDist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    },
+    "homepage": "https://NickCottner.github.io.AlfanosDist"
+}
