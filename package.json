@@ -1,5 +1,5 @@
 {
-  "name": "dist",
+  "name": "AlfanosDist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    }
+    "homepage": "https://NickCottner.github.io.AlfanosDist"
 }
